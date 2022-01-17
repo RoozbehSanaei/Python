@@ -7,5 +7,6 @@ A collection of online resources that explain core Python Concepts Simply and Cl
 ## Data Structures
 [Lists](https://www.geeksforgeeks.org/python-list/)\
 [Dictionary](https://www.geeksforgeeks.org/python-dictionary/?ref=lbp)
+[Array](https://www.programiz.com/python-programming/array)
 
 
